@@ -1,0 +1,18 @@
+{
+  "name": "nichdu/array-utils",
+  "description": "library with various array-related functions",
+  "keywords": ["array", "utils", "utilities"],
+  "license": "BSD-4-Clause",
+  "authors": [
+    {
+      "name": "Tjark Saul",
+      "email": "php@tjarksaul.de"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "files": ["src/functions.php"]
+  }
+}
